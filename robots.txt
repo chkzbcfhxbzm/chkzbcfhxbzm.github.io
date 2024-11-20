@@ -1,0 +1,7 @@
+User-agent:*
+Allow:/
+
+Sitemap: https://chkzbcfhxbzm.github.io/chkzbcfhxbzm_github_io_zp528_14.txt
+Sitemap: https://chkzbcfhxbzm.github.io/chkzbcfhxbzm_github_io_zp528_2.txt
+Sitemap: https://chkzbcfhxbzm.github.io/chkzbcfhxbzm_github_io_zp528_25.txt
+Sitemap: https://chkzbcfhxbzm.github.io/chkzbcfhxbzm_github_io_zp528_5.txt
